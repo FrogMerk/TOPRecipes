@@ -1,0 +1,13 @@
+/* recipe-pages.css */
+
+body{
+    background-color:lightgray;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+img{
+    align-self: center;
+    height: 400px;
+    width:auto;
+}
